@@ -3,7 +3,8 @@
 Na pasta wordpress/wp-content/plugins, onde os plugins instalados no WordPress são armazenados, crie uma nova pasta chamada al_local_dia_palestra. Dentro dessa pasta, crie um arquivo chamado al_local_dia_palestra.php.
 
 Nesse arquivo vamos determina alguns dados padrões do plugin como Nome, Descrição, versão e Autor. Em seguida, adicionaremos uma condição de segurança usando uma estrutura if para verificar se o WordPress está acessando o plugin. Caso contrário, a execução será interrompida.
-´<?php
+```python
+<?php
 /*
  * Plugin Name: Cadastrar local e data da palestra
  * Description: Plugin para cadastrar local e data da próxima palestra realizada pela Alura
@@ -16,6 +17,8 @@ if (!defined('ABSPATH')) {
 }
 
 // Aqui você pode adicionar o código do seu plugin
-´
+```
+
+
 
 
