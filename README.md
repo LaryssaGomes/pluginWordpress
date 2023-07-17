@@ -20,6 +20,6 @@ if (!defined('ABSPATH')) {
 // Aqui você pode adicionar o código do seu plugin
 ```
 
-
+Dentro da pasta al_local_dia_palestra crier uma pasta chamada includes ...
 
 
