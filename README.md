@@ -1,9 +1,11 @@
 # Questionamentos comuns
 
 o que são widgets ?
+
 Ficam na parte de "Aparência", são uma estrutura visual do site que com um simples arrasta e solta podemos atualizar a pagina normalmente algo vinculado ao tema usado, representam geralmente, como exibir menus de navegação, categorias de posts, arquivos, formulários de pesquisa, listas de páginas, calendários, nuvens de tags, entre outros.
 
 o que são shortcodes?
+
 Básicamente e um apelido para um código específico seja ele um componente visual complexo ou não, devem ser inserido diretamente no editor wordpress, envolvendo o conteúdo desejado entre colchetes com uma palavra-chave ou identificador.
 
 # Criando um plugin
